@@ -1,4 +1,4 @@
-class Render {
+class loopify {
   constructor(data) {
     this.data = data;
   }
