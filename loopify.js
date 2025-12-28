@@ -1,4 +1,4 @@
-class loopify {
+class Loopify {
   constructor(data) {
     this.data = data;
   }
